@@ -2,7 +2,7 @@
 
 Lorem Ipsumovichensteinenheimertonerier
 
-Yes, that spelling is correct..
+Yes, that spelling is correct...
 
 "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...you betcha indeed."
 
