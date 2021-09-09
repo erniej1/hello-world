@@ -4,7 +4,6 @@ Lorem Ipsumovichensteinenheimertonerier
 
 Yes, that spelling is correct...
 
-So is this...
 
 "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...you betcha indeed."
 
